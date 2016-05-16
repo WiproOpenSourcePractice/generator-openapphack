@@ -1,0 +1,22 @@
+{
+  "name": "generator-openapphack",
+  "version": "0.0.1",
+  "description": "Yeoman generator for openapphack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WiproOpenSourcePractice/generator-openapphack.git"
+  },
+  "keywords": [
+    "\"yeoman-generator\""
+  ],
+  "author": "Vinod Panicker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WiproOpenSourcePractice/generator-openapphack/issues"
+  },
+  "homepage": "https://github.com/WiproOpenSourcePractice/generator-openapphack#readme"
+}
